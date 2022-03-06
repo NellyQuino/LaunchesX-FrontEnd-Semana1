@@ -1,7 +1,6 @@
 
 # LaunchesX-FrontEnd-Semana1  🚀
 
-# Introducción
 
 # Contenido:
 
