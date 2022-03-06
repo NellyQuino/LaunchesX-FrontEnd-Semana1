@@ -13,5 +13,5 @@
 
  📝  [Crea tu primer Wireframe UX](https://github.com/NellyQuino/LaunchesX-FrontEnd-Semana1/blob/main/PDFs/WireFrames.pdf)
 
-🎨  [Ahora el UI](https://github.com/NellyQuino/SistemasProgramables/blob/main/Blog/C1.4_Acondicionador_de_senal_AmOP_NellyQuino.md)
+🎨  [Ahora el UI](https://github.com/NellyQuino/LaunchesX-FrontEnd-Semana1/blob/main/PDFs/UX.pdf)
 
